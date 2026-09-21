@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wooacamera.wooahouse.com/sitemap.xml
